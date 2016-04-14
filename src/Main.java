@@ -7,6 +7,6 @@ public class Main {
 		
 		Student student = new Student("Lars");
 		
-		System.out.println("Name of student: " + student.getName());
+		System.e.println("Name of student: " + student.getName());
 	} 
 }
